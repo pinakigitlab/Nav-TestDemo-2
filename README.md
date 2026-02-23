@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/NavacordIns/2e1a2532-e757-48b9-985e-51edba32cf09/71594f5d-24d2-4cf5-afdc-8a62aeb6ab77/_apis/work/boardbadge/6ec76e14-a001-47bc-9f4c-13645e1f1da5?columnOptions=1)](https://dev.azure.com/NavacordIns/2e1a2532-e757-48b9-985e-51edba32cf09/_boards/board/t/71594f5d-24d2-4cf5-afdc-8a62aeb6ab77/Stories/)
